@@ -1,0 +1,11 @@
+1) pip install jupyter notebook
+2) pip install opencv-python
+3) pip install matplotlib
+4) jupyter notebook
+5) file->new->notebbok->select
+
+for sentiment analysis
+pip install nltk
+
+for Lemmatization
+pip install stanza
